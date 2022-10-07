@@ -1,6 +1,6 @@
 {
-  "name": "cra-template",
-  "version": "1.2.0",
+  "name": "cra-template-mui-dashboard",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -9,15 +9,15 @@
   "description": "The base template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/requenahdz/cra-template-mui",
+    "directory": "cra-template-mui-dashboard"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/requenahdz/cra-template-mui/issues"
   },
   "files": [
     "template",
